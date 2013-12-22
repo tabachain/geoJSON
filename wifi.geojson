@@ -1,0 +1,2339 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4175319,
+                    35.6374354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "モスバーガー(MOS BURGER) 豊田旭ヶ丘店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.372561,
+                    35.658756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファミリーマート (FamilyMart)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.613889,
+                    35.619951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3994572,
+                    35.6587442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4055418,
+                    35.6628816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4162947,
+                    35.6633998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "es Cafe / Dining"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6661739,
+                    35.6627235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ (MINISTOP)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9283608,
+                    35.1739136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ(MINISTOP)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.672588,
+                    35.706312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Washington Hotel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8881809,
+                    37.0550027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サンクス (sunkus)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.413293,
+                    35.695415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド 20号調布店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5427689,
+                    35.6557808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カレーハウスCoCo壱番屋"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5976974,
+                    34.7887355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7052337,
+                    35.6587425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファミリーマート (FamilyMart)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7053851,
+                    35.6586549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brixton Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.626479,
+                    35.489876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAKURA BURGER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.828741,
+                    34.684805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソフトバンクショップ (SoftBank shop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6303345,
+                    35.5866869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "調布市立中央図書館"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.541045,
+                    35.651012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ｅｍｉｎａ　ｂａｃｋｐａｃｋｅｒｓ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9871197,
+                    43.18535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン(LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.070927,
+                    35.648975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アポストロフィー"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9394131,
+                    35.1665747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaside Inn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.786541,
+                    35.0241567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5495836,
+                    35.7162682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ズワカット"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7393943,
+                    35.6677712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東横INN JR和歌山駅東口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.194025,
+                    34.232988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.193885,
+                    34.232238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コワーキングスペース TANEMAKI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6155312,
+                    35.4611226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6679522,
+                    35.658711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いわき産業創造館"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8918547,
+                    37.0566506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6999632,
+                    35.6490445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IRORI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.309282,
+                    38.4318583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アウトドアショップ クロスポイント (Closs point"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.507961,
+                    33.9676595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nara in the box"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8191273,
+                    34.6811746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテルフジタ 奈良"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8246667,
+                    34.6821323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス (Starbucks)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.2517521,
+                    36.0965768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAFE&SALON SWAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.4499069,
+                    36.4019988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gojo Cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7721769,
+                    34.9953162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gojo Guest House"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7721965,
+                    34.9953152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スール (Soeur)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.2579346,
+                    36.142541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.895834,
+                    35.156812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イトウヨーカ堂 平店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.898304,
+                    37.0576142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9068264,
+                    35.1559214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9098118,
+                    35.1629618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ (MINISTOP) 渋谷本町6丁目店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.676937,
+                    35.680067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテル白岩"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3584664,
+                    34.7499856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.902782,
+                    35.1434223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.8208417,
+                    34.708287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド (McDonald's)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8427525,
+                    35.6906025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRONT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7725484,
+                    35.7002379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド (McDounald's)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7737744,
+                    35.6992443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド (McDonald's)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7717626,
+                    35.6997211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Favorite Time Coffee 芝大門ABC館"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7540105,
+                    35.657013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8351898,
+                    35.6899749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mos Burger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.99419,
+                    35.200727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "デニーズ (Denny's)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7736603,
+                    35.6973702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソフトバンクショップ (SoftBank shop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7000095,
+                    35.5305881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソフトバンクショップ (SoftBank shop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7279797,
+                    35.5351435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソフトバンクショップ (SoftBank shop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69478,
+                    35.5329177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソフトバンクショップ (SoftBank shop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6783923,
+                    35.5517235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソフトバンクショップ (SoftBank shop)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6584025,
+                    35.5774694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9356764,
+                    35.1497943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9121172,
+                    35.1544807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9154902,
+                    35.1558768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9153221,
+                    35.1593359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9138208,
+                    35.1621314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9216662,
+                    35.1571355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9209802,
+                    35.1577602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9222987,
+                    35.1577803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9332893,
+                    35.1479803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9356425,
+                    35.162884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9253164,
+                    35.1660805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.935094,
+                    35.1704092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9516478,
+                    35.1661812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9178362,
+                    35.1694645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9306259,
+                    35.1695623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9373941,
+                    35.1697399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9225063,
+                    35.1697507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9197891,
+                    35.1721655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9232167,
+                    35.1814338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.910193,
+                    35.149194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ (MINISTOP)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9546736,
+                    35.1668533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ (MINISTOP)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9642808,
+                    35.1646391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ (MINISTOP)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9532623,
+                    35.1529023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "久乃"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.6036548,
+                    33.2350473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4073771,
+                    35.6511139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.421496,
+                    35.6590571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5671376,
+                    35.7233037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5782144,
+                    35.7247404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5717445,
+                    35.7233146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソン (LAWSON)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5771527,
+                    35.7268686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5723449,
+                    35.718404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5530904,
+                    35.7257883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5491024,
+                    35.7270148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.831584,
+                    35.66779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アプレシオ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.758498,
+                    36.399273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテル 椿園"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3626924,
+                    34.7459591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東横イン 橋本駅北口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.348232,
+                    35.594221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.220526,
+                    38.423343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ギークカフェ水道橋"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7534272,
+                    35.7005404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仕事場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.21658,
+                    36.062482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サニーガーデン (SUNNY GARDEN)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.3590149,
+                    43.7624176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TSUTAYA 検見川浜店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.059602,
+                    35.636759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リッチモンドホテル仙台"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.882222,
+                    38.265278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sturbucks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.881187,
+                    38.26276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "モスバーガー (MOS BURGER)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.735227,
+                    35.692403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Exclamation Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.756746,
+                    35.009007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岩井海岸 川きん"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8428918,
+                    35.0955809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRONTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.042278,
+                    35.672429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COFFEE KAISHODO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.606622,
+                    33.2378765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イーストチャイナシー"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.158296,
+                    24.337249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "星野リゾート ニライカナイ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.775037,
+                    24.421477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ニライカナイ別館・会議室"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.775638,
+                    24.422334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファミリーマート六本木通り店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.729542,
+                    35.662232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comic Baster"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.438783,
+                    35.803219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "巻com事務所"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.308732,
+                    38.43109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "銀平駅前店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.189079,
+                    34.232795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "musica cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.147291,
+                    34.27617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "西陣イノクマカフェ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.748168,
+                    35.034066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックスイオンモール高の原店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.790817,
+                    34.725285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.764873,
+                    35.694711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.077643,
+                    36.027093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.486056,
+                    34.831464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guesthouse Komachi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8208369,
+                    34.6788756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kitchen Style Rocket Café"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.046725,
+                    34.350746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOON+Cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.501676,
+                    34.707213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コンフォートホテル"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6370034,
+                    35.4467277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe? IKAGAWA DO (五十川堂)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6242657,
+                    36.5298635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喰い処だいにんぐ まる"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.056996,
+                    35.658966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "庄や"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.056093,
+                    35.658166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8850133,
+                    35.1672322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファミリーマート六本木三丁目店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73749,
+                    35.663473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taulli Acupuncture & Massage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.702639,
+                    35.646756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "魚民釜石"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.881459,
+                    39.274002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテルウィングインターナショナル相模原 (Hotel Wing International SAGAMIHARA)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3568352,
+                    35.5579779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7695845,
+                    35.6965093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス 所沢けやき台店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.455591,
+                    35.7963557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミニストップ 宇都宮大学店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.914868,
+                    36.550704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サンクス (sunkus)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.474933,
+                    35.667048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ネイチャーイン はな心 nature inn hanashin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.053465,
+                    45.312884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sukayu Onsen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.850571,
+                    40.6502898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サンクス (sunkus)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.417566,
+                    35.732179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.076404,
+                    36.026496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "売店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.076247,
+                    36.026554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.076071,
+                    36.026585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ローソンストア100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.595419,
+                    35.773886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドトールコーヒー"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.728433,
+                    41.7729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファミリーマート(FamilyMart)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.915776,
+                    35.564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "くれちうどん"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.82803,
+                    35.50983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "富士箱根ランド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0147336,
+                    35.1675234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リッチモンドホテル福島"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.45795,
+                    37.756049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リッチモンドホテル福島"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.457942,
+                    37.756075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7648514,
+                    35.6965472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEW YORKER'S Cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.765535,
+                    35.697545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セブン-イレブン (Seven-Eleven)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.746243,
+                    35.694088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUBWAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.9629334,
+                    34.981409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミスタードーナツ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7523499,
+                    41.7895231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "呼吸"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0999315,
+                    35.6249058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hane-cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7991227,
+                    35.6803381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファミリーマート 志津川廻館店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.4417751,
+                    38.684197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apple Store 仙台一番町店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.871361,
+                    38.261722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Starbucks Coffee仙台クリスロード店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.876933,
+                    38.261515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikko Guest House Sumica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6202363,
+                    36.7473083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mount Fuji Hostel Michael's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8010153,
+                    35.4909158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jam hostel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7724697,
+                    35.0048902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Econo inn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7653872,
+                    34.9941696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ウェルカムイン湯本"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.848359,
+                    37.008902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Khaosan Beppu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.5035823,
+                    33.2824057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スターバックス浜松柳通り"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.739473,
+                    34.720093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ロロカフェ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.73623,
+                    34.712657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOMBAY PALACE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.911606,
+                    35.680244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "千葉コワーキングスペース・201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1092125,
+                    35.6145715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STARBUCKS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.659567,
+                    35.576023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.843297,
+                    35.713695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェ・ド・クリエ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6926472,
+                    34.8318689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "モスバーガー伊達店"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.865201,
+                    42.474238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ケンタッキーフライドチキン"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3589565,
+                    33.5832294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容プラージュ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3588412,
+                    33.5831744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東京大学千葉演習林清澄学生宿舎"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.146264,
+                    35.159752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アパホテル"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6933721,
+                    34.8292554
+                ]
+            }
+        }
+    ]
+}
