@@ -1,0 +1,1116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7924956,
+                    35.6558226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNITED CINEMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6597984,
+                    35.8581677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8042442,
+                    35.7501252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3220303,
+                    35.7936462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7410388,
+                    35.5841367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1928139,
+                    36.6542607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東亜会館(スカラ座、オデオン座、セントラル、東宝)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5809746,
+                    35.7028878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ﾜｰﾅｰﾏｲｶﾙｼﾈﾏｽﾞ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6610589,
+                    35.7704788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "八千代館 (Yachiyokan)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3927219,
+                    35.4748295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8956671,
+                    38.1631736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T・ジョイ稚内"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.6766165,
+                    45.4170301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワーナー・マイカル・シネマズ羽生"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5404504,
+                    36.143469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOVIX橿原"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7966895,
+                    34.5295035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WARNER MYCAL CINEMAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6386792,
+                    35.4542916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "109シネマズグランベリーモール"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4700722,
+                    35.5098527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大都会"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.2524562,
+                    36.7223849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOVIX HONMOKU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6658021,
+                    35.42494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミッドランドシネマ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.926252,
+                    35.245501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スカラ座"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4845931,
+                    35.9241148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "チネチッタ (Cinecittà)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6978982,
+                    35.5283369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOVIX昭島"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3631215,
+                    35.7149217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOHOシネマズ二条 (TOHO theatre Nijo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7410669,
+                    35.0102622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネモンド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6532891,
+                    36.5623811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.715833,
+                    35.7298953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7149213,
+                    35.7298907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Movix"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7457753,
+                    34.6047639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Warner Mycal Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4261358,
+                    35.622805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toho cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.5655193,
+                    31.5703157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "静岡東宝会館"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3802663,
+                    34.9728732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネシティ ザート"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3872504,
+                    34.9755459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "千本日活"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.741439,
+                    35.0235715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "名古屋シネマテーク"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9349285,
+                    35.1687351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネ・ヌーヴォ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4753349,
+                    34.6740883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東宝シネマ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6988833,
+                    35.6591861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大劇シネマ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6882637,
+                    34.8298241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cinemarise"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6987716,
+                    35.6615696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOHOシネマズ岐阜"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7296307,
+                    35.3622882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOVIX三好"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.0776693,
+                    35.0933721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Warner Mycal Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3932549,
+                    35.4496383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prince Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7356113,
+                    35.6284021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワーナーマイカルシネマズ大宮"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6096522,
+                    35.9229653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOHOシネマズ高知 (3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.542702,
+                    33.5750552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOHOシネマズ浜松"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.7288899,
+                    34.7048054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "銀座シネバトス (Ginza Cinebatosu)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7661324,
+                    35.6701035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "銀座シネバトス (Ginza Cinebatosu)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7665026,
+                    35.6703846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三軒茶屋中央劇場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6690573,
+                    35.6426051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三軒茶屋シネマ (Sangenjaya-Cinema)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6691143,
+                    35.6429428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "神戸映画資料館　Kobe Planet Film Archive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1463776,
+                    34.6543657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOZOワンダーシティシネマ棟"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.884749,
+                    35.2273004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワーナー・マイカル・ シネマズ桑名"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6628269,
+                    35.07083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネマックス"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1528844,
+                    35.8072388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinema Skholi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8788994,
+                    35.1696974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOHOシネマズ サンストリート浜北"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.7612622,
+                    34.7957763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "姫路OS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6910465,
+                    34.8287514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新宿バルト9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7070181,
+                    35.68954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワーナーマイカルシネマズ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9267089,
+                    35.6925017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネマe~ra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.7296198,
+                    34.707643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "吉祥寺プラザ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5807579,
+                    35.7065085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOHOシネマズ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4809623,
+                    35.6713819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WARNER BRO Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7192065,
+                    34.5855062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "福井シネマ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.2164976,
+                    36.0628665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コロナワールド(KORONA WORLD)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.2499341,
+                    36.0950313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benny Decker Theater"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6752052,
+                    35.2893654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6360903,
+                    35.4234799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エミアミューズ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7150664,
+                    33.7879919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ユナイテッド・シネマ入間"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3874285,
+                    35.8359048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊川コロナワールド"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.384586,
+                    34.8025875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コスモシアター"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7543554,
+                    33.835413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネプレックス旭川 (Cineplex Asahikawa)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.4133151,
+                    43.7795344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "テアトルサンク"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.219184,
+                    36.06138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ユナイテッドシネマ豊島園 (United Cinema Toshimaen)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6487454,
+                    35.7422605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "109シネマズ湘南"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.446402,
+                    35.339002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ユナイテッドシネマ　ウニクス南古谷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5151469,
+                    35.9037118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネマサンシャイン衣山"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7469533,
+                    33.8540587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toho Cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.4949835,
+                    33.7547976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Movix つくば"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.084215,
+                    36.087734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.461148,
+                    34.392925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.4628,
+                    34.393703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.463435,
+                    34.391561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CINEMA TWO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.412219,
+                    35.701377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5072252,
+                    35.6028466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ポレポレ東中野"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6845665,
+                    35.7065193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シアターねこ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7715887,
+                    33.8454493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シアターキノ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.348601,
+                    43.056544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "下高井戸シネマ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6427873,
+                    35.6659378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イオンシネマ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5795035,
+                    35.5523447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シネパレス山陽座"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.692563,
+                    34.829411
+                ]
+            }
+        }
+    ]
+}
