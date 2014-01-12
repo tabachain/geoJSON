@@ -5,8 +5,8 @@ geoJSON
 
 ##データの構造
 ※name要素があるものはproperties内に入っています。
-　　　　{
-    "type": "FeatureCollection",
+    {
+     "type": "FeatureCollection",
     "features": [
         {
             "type": "Feature",
