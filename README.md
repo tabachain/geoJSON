@@ -34,6 +34,12 @@ geoJSON
         }...中略...
         ]
         }
+        
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ##ライセンス
 Open Database License 1.0
